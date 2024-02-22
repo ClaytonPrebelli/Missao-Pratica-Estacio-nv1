@@ -1,0 +1,1 @@
+O presente projeto foi feito como missão prática do Curso Desenvolvedor Full Stack. Apesar de ser solicitado que a primeira página fosse chamada de Home.html, deixo como index.html para poder apresentar visualização prática na vercel.
